@@ -1,0 +1,5 @@
+4 4 
+E R R R
+R O R R
+R O R R
+E R E E
